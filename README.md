@@ -4,6 +4,5 @@
 
 Tools and Technologies:
 
-Anaconda IDE.
+HTML,CSS,PHP,SQL
 
-Python Django Framework.
